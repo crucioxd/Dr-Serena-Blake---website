@@ -8,7 +8,6 @@ export default function About() {
   return (
     <section className="py-12 px-4 max-w-5xl mx-auto mt-32 md:mt-60">
       <div className="flex flex-col md:flex-row gap-8 md:gap-12 items-center">
-        {/* Headshot - First on mobile, second on desktop */}
         <motion.div
           initial={{ opacity: 0, scale: 0.9 }}
           whileInView={{ opacity: 1, scale: 1 }}

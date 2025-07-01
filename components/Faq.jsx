@@ -2,11 +2,11 @@
 
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import ContactModal from "./ContactModal"; // Add this import
+import ContactModal from "./ContactModal";
 
 export default function Faq() {
   const [openIndex, setOpenIndex] = useState(null);
-  const [isModalOpen, setIsModalOpen] = useState(false); // Add modal state
+  const [isModalOpen, setIsModalOpen] = useState(false);
 
   const faqs = [
     {
