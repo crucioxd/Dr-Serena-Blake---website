@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const areas = [
   {
-    src: "/picture1.jpg", // replace with your image
+    src: "/stress.jpeg", // replace with your image
     alt: "Anxiety and Stress Management",
     title: "Anxiety & Stress Management",
     text: `Modern life can be overwhelming. Therapy can help you identify the sources of your anxiety and stress, develop practical coping skills, and build resilience. Together, we’ll work toward finding calm, clarity, and a greater sense of balance in your daily life.`,
@@ -15,7 +15,7 @@ const areas = [
     text: `Healthy relationships are essential to our well-being. Whether you’re facing conflict with a partner, family member, or friend, therapy provides a safe space to improve communication, rebuild trust, and strengthen your emotional connection.`,
   },
   {
-    src: "/picture3.jpg",
+    src: "/trauma.webp",
     alt: "Trauma Recovery",
     title: "Trauma Recovery",
     text: `Recovering from trauma can feel isolating, but you don’t have to navigate it alone. Therapy offers compassionate support to process painful experiences, understand their impact, and move forward with a renewed sense of safety and self-compassion.`,
